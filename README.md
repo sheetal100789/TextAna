@@ -1,4 +1,4 @@
-# TextAna
+# Text Analytics Shiny App
 Text Analytics Project
 
 Please run the app using below commands in RStudio
